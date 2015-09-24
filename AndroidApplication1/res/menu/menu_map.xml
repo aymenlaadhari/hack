@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto" >
+
+    <item
+        android:id="@+id/action_settings"
+        android:title="@string/action_settings"
+        app:showAsAction="never">
+        <menu>
+            <item
+                android:id="@+id/action_updatePosition"
+                android:title="Update Position"
+                app:showAsAction="never"/>
+            <item
+                android:id="@+id/action_getMembersPositions"
+                android:title="Get members positions"
+                app:showAsAction="never"/>
+        </menu>
+    </item>
+
+</menu>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Mob Pact</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="drawer_open">Slider Menu Opened</string>
+    <string name="drawer_close">Slider Menu Closed</string>
+
+    <!-- Nav Drawer Menu Items -->
+    <string-array name="nav_drawer_items">
+        <item>Home</item>
+        <item>Jobs</item>
+        <item>Goethe Institut</item>
+        <item>Communities</item>
+        <item>Meetup</item>
+        <item>What\'s Hot</item>
+    </string-array>
+
+    <!-- Nav Drawer List Item Icons -->
+    <!-- Keep them in order as the titles are in -->
+    <array name="nav_drawer_icons">
+        <item>@drawable/ic_home</item>
+        <item>@drawable/ic_people</item>
+        <item>@drawable/goethe</item>
+        <item>@drawable/ic_communities</item>
+        <item>@drawable/ic_pages</item>
+        <item>@drawable/ic_whats_hot</item>
+    </array>
+
+    <!-- Content Description -->
+    <string name="desc_list_item_icon">Item Icon</string>
+    <string name="title_activity_pager">PagerActivity</string>
+    <string name="title_sectionVideo">videos</string>
+    <string name="title_sectionStaff">staff</string>
+    <string name="title_sectionNotices">notices</string>
+    <string name="title_activity_collection_demo">CollectionDemoActivity</string>
+    <string name="title_activity_moving_back">MovingBackActivity</string>
+    <string name="title_activity_alltag">AlltagActivity</string>
+    <string name="title_activity_diction">DictionActivity</string>
+    <string name="title_fr">Français</string>
+    <string name="title_en">English</string>
+    <string name="title_de">Deutsch</string>
+    <string name="title_logo">GOETHE INSTITUT</string>
+    <string name="btn_skip_intro">Skip Intro</string>
+    <string name="error_player">There was an error initializing the YouTubePlayer (%1$s)</string>
+    <string name="title_activity_dictionnaire">Dictionnaire</string>
+    <string name="title_section1">Deutsch-Français</string>
+    <string name="title_section2">Deutsch-Anglais</string>
+    <string name="title_section3">Deutsch-Deutsch</string>
+    <string name="title_section4">Français-Deutsch</string>
+    <string name="title_section5">Anglais-Deutsch</string>
+    <string name="title_activity_video">VideoActivity</string>
+    <string name="title_activity_video_alltag">VideoAlltag</string>
+    <string name="lbl_you_are_at">YOU ARE AT</string>
+    <string name="btn_get_location">GET MY LOCATION</string>
+    <string name="btn_start_location_updates">START LOCATION UPDATES</string>
+    <string name="btn_stop_location_updates">STOP LOCATION UPDATES</string>
+    <string name="title_activity_location">LocationActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_new_post">NewPostActivity</string>
+    <string name="title_activity_test_ws">TestWS</string>
+
+</resources>
