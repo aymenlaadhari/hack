@@ -18,9 +18,7 @@ import android.widget.TextView;
 public class CommunityListAdapter extends BaseAdapter{
 	private Activity activity;
 	private LayoutInflater inflater;
-	private List<CommunityItems> communityItems;
-	
-	
+	private List<CommunityItems> communityItems;	
 
 	public CommunityListAdapter(Activity activity,
 			List<CommunityItems> communityItems) {
